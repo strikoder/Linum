@@ -1,4 +1,4 @@
-# LinEnum
+# Linum
 For more information visit www.rebootuser.com
 
 Note: Export functionality is currently in the experimental stage.
