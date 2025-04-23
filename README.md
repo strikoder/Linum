@@ -1,5 +1,6 @@
-# Linum
-For more information visit www.rebootuser.com
+# Linum (WIP)
+In this repo I'm gonna add my special touch & flavours to the linux enum
+For more information visit www.rebootuser.com & the original repo
 
 Note: Export functionality is currently in the experimental stage.
 
